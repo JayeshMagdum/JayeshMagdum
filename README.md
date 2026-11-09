@@ -2,10 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi!+I+am+Jayesh+Magdum+%F0%9F%91%8B;IT+Engineering+Student+%7C+Pune;Python+%7C+Machine+Learning+%7C+OpenCV+%7C+YOLOv8;Building+AI+and+Computer+Vision+projects" alt="Typing SVG" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=JayeshMagdum&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
-
 <br><br>
 
 <a href="https://www.linkedin.com/in/jayesh-magdum-4546803a2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -59,21 +55,6 @@ Final-year **Information Technology** engineering student at **MMCOE, Pune**, in
 | [**Customer-Churn-Analysis**](https://github.com/JayeshMagdum/Customer-Churn-Analysis) | Telecom customer churn prediction using ML | Python, Jupyter |
 | [**tv-series-rating-visualizer**](https://github.com/JayeshMagdum/tv-series-rating-visualizer) | Episode rating heatmap for any TV series using the OMDb API | Streamlit, OMDb API |
 | [**Portfolio**](https://github.com/JayeshMagdum/JayeshMagdum.github.io) | My personal website | HTML, CSS, JS |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JayeshMagdum&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshMagdum&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=JayeshMagdum&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
 
 ---
 
